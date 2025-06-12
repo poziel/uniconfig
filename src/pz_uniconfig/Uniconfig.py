@@ -1,6 +1,5 @@
 ﻿import json
 import os
-import sys
 import configparser
 import re
 from types import SimpleNamespace
