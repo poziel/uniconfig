@@ -1,0 +1,5 @@
+﻿   docutils
+   pytest
+   pyyaml
+   requests
+   sqlalchemy
